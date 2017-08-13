@@ -34,6 +34,7 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    margin-left: 10px
 }
 
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, blockquote, th, td {
@@ -478,7 +479,7 @@ section {
 /* --------- 2.4 Navigation ---------- */
 
 #header {
-    font-size: 13px;
+    font-size: 20px;
 }
 
 #header aside {
@@ -685,7 +686,7 @@ nav#nav-mobile a:hover {
 }
 
 #header .social-icons {
-    margin-top: 27px;
+    margin-top: 20px;
 }
 
 /* --------- 2.6 Images ---------- */
@@ -786,6 +787,7 @@ h6 {
 #banner-content.row {
     padding-top: 170px;
     padding-bottom: 100px;
+
 }
 
 #banner h1 {
